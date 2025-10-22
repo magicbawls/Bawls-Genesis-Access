@@ -1,9 +1,8 @@
 {
   "name": "Bawls - Genesis Access #10",
-  "symbol": "BAWLS",
   "description": "Grants exclusive access to the Bawls Workforce Platform. Create and complete missions, earn rewards, and shape the Bawls ecosystem.",
   "seller_fee_basis_points": 500,
-  "image": "9.png",
+  "image": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/9.png",
   "external_url": "https://bawlsonu.life",
   "attributes": [
     {
@@ -14,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "9.png",
+        "uri": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/9.png",
         "type": "image/png"
       }
     ],
