@@ -1,15 +1,23 @@
 {
   "name": "Bawls - Genesis Access",
   "symbol": "BWLGA",
-  "description": "Bawls - Genesis Access is the foundational collection of the Bawls Workforce Platform. Each holder gains exclusive early access to create, manage, and participate in on-chain tasks and missions.",
+  "description": "Bawls - Genesis Access is the foundational NFT collection of the Bawls Workforce Platform. Holders gain early access to create, complete, and earn through on-chain missions.",
   "image": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/collection.png",
-  "seller_fee_basis_points": 500,
+  "animation_url": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/collection.mp4",
   "external_url": "https://bawlsonu.life",
   "properties": {
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/collection.png",
         "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/collection.gif",
+        "type": "image/gif"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/magicbawls/Bawls-Genesis-Access/refs/heads/main/collection.mp4",
+        "type": "video/mp4"
       }
     ],
     "category": "image"
